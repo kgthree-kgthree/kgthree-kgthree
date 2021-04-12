@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kgthree-kgthree, an elictrical engineer
+- 👋 Hi, I’m @kgthree-kgthree, an electrical engineer
 - 👀 From batteries to building web pages 
 - 🌱 Currently doing --> End to and Web development course by Udemy
 
