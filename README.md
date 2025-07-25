@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @kgthree-kgthree, an electrical engineer
 -  Having fun with projects in Embedded C, Python (also HMI)
+-  MATLAB/Simulink
+-  Currently learning Qt
 -  Basic HTML CSS Bootstrap Javascript jQuery Node.js Express.js
 - https://kgthree-kgthree.github.io/Gayathri/
 
