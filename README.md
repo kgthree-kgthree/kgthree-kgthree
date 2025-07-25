@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kgthree-kgthree, an electrical engineer
-- 👀 From batteries to building web pages 
--  HTML CSS Bootstrap Javascript jQuery Node.js Express.js
-- 🌱 learning Web Development
+-  Having fun with projects in Embedded C, Python (also HMI)
+-  Basic HTML CSS Bootstrap Javascript jQuery Node.js Express.js
 - https://kgthree-kgthree.github.io/Gayathri/
 
 <!---
